@@ -25,3 +25,9 @@
   --h2-font: 2.9rem;
   --p-font: 1rem;
 }
+
+
+body {
+  color: var(--text-color);
+  background: var(--bg-color);
+}
